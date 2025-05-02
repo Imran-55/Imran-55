@@ -57,9 +57,9 @@ I’m a developer who’s passionate about building smart, useful, and sometimes
 
 ## 📫 Let’s Connect!
 
-- ✉️ Email: [your.email@example.com](mailto:imranraigarh786@gmail.com)
-- 💼 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/imran_55)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- ✉️ Email: imran[raigarh786@gmail.com](mailto:imranraigarh786@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/imran-alam-743665275/]([https://www.linkedin.com/in/imran_55](https://www.linkedin.com/in/imran-alam-743665275/))
+
 
 ---
 
