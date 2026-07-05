@@ -1,68 +1,113 @@
-# 👋 Hey there! I'm Imran Alam
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Imran%20Alam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
 
-Welcome to my corner of the internet — where code meets creativity!  
-I’m a developer who’s passionate about building smart, useful, and sometimes quirky tech that solves real problems (or at least makes people say “whoa, that’s cool!”).
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Imran-55">
+    <img src="https://komarev.com/ghpvc/?username=Imran-55&label=Profile%20views&color=00FFFF&style=flat-square" alt="Imran-55's profile views" />
+  </a>
+</p>
 
----
-
-## 💻 What I Do
-
-- 🌐 **Web Development** – Full-stack magic with PHP, JavaScript, Bootstrap, and friends
-- 🧠 **Machine Learning Experiments** – Deep dives into data, predictions, and chaos (literally — I play with chaotic maps too!)
-- 🛠️ **Student-Centric Tools** – I build platforms that make student life easier: notes, papers, resume builders, and more
-- 📈 **Finance & News AI** – Currently working on detecting fake stock market rumors using deep learning
-
----
-
-## 🚀 Projects You’ll Love
-
-### 📚 [Study Mate](#)
-*A smart student portal with notes, question papers, a resume builder, and an admin dashboard*  
-`Tech Stack: PHP, HTML, CSS, Bootstrap, JS, jQuery`
-
-### 📰 Fake News Detector (Finance Edition)
-*Classifying stock market rumors as true or false using NLP & FinBERT*  
-`Tech Stack: Python, Transformers, Flask, BeautifulSoup, Twitter API`
-
-### 🎨 Image Tools with Python
-*Local web apps to manipulate images (like B&W conversion) with a click*
-
----
-
-## 🧠 Currently Learning
-
-- Deep NLP with transformer models (like BERT and FinBERT)
-- Scalable backend systems with Node.js and Django
-- Advanced statistical estimation techniques
-
----
-
-## ⚙️ Tech Toolbox
-
-**Languages**:  
-`Python`, `JavaScript`, `PHP`, `HTML/CSS`, `SQL`
-
-**Frameworks & Tools**:  
-`Bootstrap`, `jQuery`, `Flask`, `Scikit-learn`, `Transformers`, `MySQL`, `XAMPP`, `Git`, `VS Code`
-
----
-
-## ✨ Fun Facts
-
-- 🌀 I use chaos theory to generate randomness — and no, it’s not as scary as it sounds.
-- 🧃 I code better with mango juice (fight me).
-- 🎧 Lofi + Terminal = Happiness
-
----
-
-## 📫 Let’s Connect!
-
-- ✉️ Email: imran[raigarh786@gmail.com](mailto:imranraigarh786@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/imran-alam-743665275/]([https://www.linkedin.com/in/imran_55](https://www.linkedin.com/in/imran-alam-743665275/))
+## 📌 About Me
+- Hi there 👋 I'm Imran
+- 🎓 Computer Science Student
+- 💻 Passionate about Software Development
+- 🤖 AI & Machine Learning Enthusiast
+- 🧠 Exploring Large Language Models (LLMs)
+- 🔍 Learning Retrieval-Augmented Generation (RAG)
+- ⚡ Interested in System Design
+- 🌐 Full-Stack Web Developer
+- 🐍 Python Developer
+- 💻 C++ Programmer
+- 🗄️ Working with MySQL
+- 🚀 Building Real-World Projects
+- 📚 Currently Learning Deep Learning, PyTorch, Transformers, FAISS, LangChain & Agentic AI
+- 🎯 Solving Data Structures & Algorithms Problems
+- 🌱 Always Learning New Technologies
+- 🤝 Open to Collaboration on AI and Open Source Projects
+- 📈 Aspiring AI Engineer & Software Developer
+- ✨ *Code • Learn • Build • Repeat*
 
 
----
+## 🧠 My Focus Areas
+* Artificial Intelligence (AI)
+* Machine Learning (ML)
+* Deep Learning
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI
+* Natural Language Processing (NLP)
+* Generative AI
+* Transformer Architecture
+* Vector Databases (FAISS)
+* LangChain & AI Frameworks
+* System Design
+* Data Structures & Algorithms
+* Problem Solving
+* Full-Stack Web Development
+* Backend Development
+* Database Design
+* Open Source Contribution
+* Software Engineering
+* Cloud Computing (Learning)
 
-> 🧠 _"Code is poetry — just debugged a little."_
 
-Thanks for visiting! Don’t forget to ⭐️ my repos if they help or inspire you 🙌
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Imran-55">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imran-55&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Imran-55's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Imran-55&theme=dark&hide_border=true&cache_seconds=86400" alt="Imran-55's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Imran-55&theme=dark&radius=10" alt="Imran-55's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/imran-alam-743665275/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:legendalex216@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
